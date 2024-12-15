@@ -20,8 +20,8 @@ The project is written in **MIPS Assembly**, a low-level programming language of
 
 This project was developed by:
 
-- **[Lumod, Kenneth L.]**
-- **[Dubria, Pamela Floriel]**&#x20;
+- **Lumod, Kenneth L.**
+- **Dubria, Pamela Floriel**&#x20;
 
 ## How to Run
 
